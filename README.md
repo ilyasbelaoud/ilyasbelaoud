@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ilyas 👋🏻
 
-#### 👋 I'm a Software Developer studying at Specialized Institute of Applied Technology.
+#### 👋 I'm a Software Developer studying at The Specialized Institute of Applied Technology.
 #### 👀 I.m interested in Coding, Learning Languages and Anime.
 #### 🌱 I’m currently learning oriented object programming
 #### 📫 How to reach me:
