@@ -9,4 +9,4 @@
 - [Portfolio](https://www.ilyasbelaoud.com/) <br/>
 - [Instagram](https://www.instagram.com/ilyasbelaoud) <br/>
 - [Linkedin](https://www.linkedin.com/in/ilyasbelaoud/) <br/>
-- [Twitter](https://www.twitter.com/ilyasbelaoud) <br/>
+- [Twitter](https://twitter.com/ilyasbelaoud) <br/>
