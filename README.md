@@ -4,7 +4,7 @@
 
 #### 👋 I'm a Software Developer studying at The Specialized Institute of Applied Technology.
 #### 👀 I.m interested in Coding, Learning Languages and Anime.
-#### 🌱 I’m currently learning oriented object programming
+#### 🌱 I’m currently learning c# and .Net Framworks.
 #### 📫 How to reach me:
 [![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/ilyasbelaoud/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/ilyasbelaoud)
