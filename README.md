@@ -31,5 +31,5 @@
 [![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](#README)
 [![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](#README)
 ----
-![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=radical)
+![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=blue-green)
 
