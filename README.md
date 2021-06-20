@@ -33,4 +33,4 @@
 ----
 ![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=blue-green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&theme=dark-hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&theme=blue-dark&hide_border=true)
