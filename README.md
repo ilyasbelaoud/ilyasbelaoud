@@ -1,11 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=29A788&size=27&center=true&vCenter=true&lines=Hello+World;My+name+is+Ilyas;Full+stack+Web+developer;App+developer;Self-taught+UI/UX+Designer;Always+learning+new+things;Welcome+to+my+profile)
 ---
-
-
-@settings {
-  font-family: ubuntu;
-}
-
 ### 👋 I'm a Software Developer studying at The Specialized Institute of Applied Technology.
 ### 👀 I.m interested in Coding, Hacking...
 ### 🌱 I’m currently learning c# and .Net Framworks.
