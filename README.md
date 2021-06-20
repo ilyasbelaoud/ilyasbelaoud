@@ -31,4 +31,3 @@
 ----
 ![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=blue-green&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&theme=dark&hide_border=true)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilyasbelaoud)
