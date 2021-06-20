@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=09BEC5&size=25&lines=Hello+World;My+name+is+Ilyas;Full+stack+Web+and+App+developer;Self-taught+UI/UX+Designer;Always+learning+new+things;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=09BEC5&size=25&center=true&vCenter=true&lines=Hello+World;My+name+is+Ilyas;Full+stack+Web+and+App+developer;Self-taught+UI/UX+Designer;Always+learning+new+things;Welcome+to+my+profile)
 ---
 #### 👋 I'm a Software Developer studying at The Specialized Institute of Applied Technology.
 #### 👀 I.m interested in Coding, Hacking...
