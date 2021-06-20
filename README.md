@@ -1,4 +1,19 @@
-# Hi there, I'm [Ilyas Belaoud](https://ilyasbelaoud.github.io/) 👋🏻
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Rak+Laptudirm.;Welcome+to+my+profile!&center=true&size=27">
+  </a>
+</h1>
+
+<p align="center">
+  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai&column=8&no-frame=true&no-bg=true">
+  </a>
+</p>
+---
 #### 👋 I'm a Software Developer studying at The Specialized Institute of Applied Technology.
 #### 👀 I.m interested in Coding, Hacking...
 #### 🌱 I’m currently learning c# and .Net Framworks.
