@@ -29,7 +29,6 @@
 [![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](#README)
 [![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](#README)
 ----
-![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=blue-green&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&theme=dark&hide_border=true)
-![](https://raw.githubusercontent.com/ilyasbelaoud/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/ilyasbelaoud/github-stats-transparent/output/generated/languages.svg)
+
+![Ilyas's GitHub stats](https://raw.githubusercontent.com/ilyasbelaoud/github-stats-transparent/output/generated/overview.svg)
+![Top Langs](https://raw.githubusercontent.com/ilyasbelaoud/github-stats-transparent/output/generated/languages.svg)
