@@ -1,3 +1,4 @@
+```html
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Ilyas+Belaoud.;Welcome+to+my+profile!&center=true&size=27">
@@ -9,6 +10,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ilyasbelaoud&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a>
 </p>
+```
 ---
 #### 👋 I'm a Software Developer studying at The Specialized Institute of Applied Technology.
 #### 👀 I.m interested in Coding, Hacking...
