@@ -30,4 +30,4 @@
 [![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](#README)
 ----
 ![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=gotham&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&theme=gotham &hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&theme=gotham&hide_border=true)
