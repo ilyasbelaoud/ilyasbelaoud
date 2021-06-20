@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=09BEC5&size=30&center=true&vCenter=true&lines=Hello+World;My+name+is+Ilyas;Welcome+to+my+profile)](https://git.io/typing-svg)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=09BEC5&size=30&center=true&vCenter=true&lines=Hello+World;My+name+is+Ilyas;Welcome+to+my+profile)
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&center=true&width=380&height=45)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&center=true&width=380&height=45)
 ---
 #### 👋 I'm a Software Developer studying at The Specialized Institute of Applied Technology.
 #### 👀 I.m interested in Coding, Hacking...
