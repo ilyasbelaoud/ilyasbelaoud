@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ilyasbelaoud/)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilyasbelaoud/)
 [![](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](#README)
-#### 👩‍💻 Languages + 🚀 Frameworks 
+#### Skills & Tools:
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#README)
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#README)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#README)
@@ -20,7 +20,6 @@
 [![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)](#README)
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#README)
 [![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)](#README)
-#### 💻 OS + IDEs
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#README)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#README)
 [![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](#README)
@@ -31,6 +30,5 @@
 [![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](#README)
 [![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](#README)
 ----
-![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=blue-green&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&theme=dark&hide_border=true)
+![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=blue-green&hide_border=true)
