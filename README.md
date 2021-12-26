@@ -1,11 +1,11 @@
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=25&center=true&vCenter=true&lines=Hello+World;I+'m+Ilyas;Software+developer;Self-taught+UI/UX+Designer;Always+learning+new+things;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World;I+'m+Ilyas;Software+developer;Self-taught+UI/UX+Designer;Always+learning+new+things;Welcome+to+my+profile)
 ---
 
-  ### 👋 I'm a Self-taught Software Developer. 
-  ### 👀 I.m interested in Web Development, Artificial Intelligence... 
-  ### 🌱 I’m currently learning Back-End Web Development 
-  ### 📫 How to reach me: 
+  #### 👋 I'm a Self-taught Software Developer. 
+  #### 👀 I'm interested in Web Development, Artificial Intelligence... 
+  #### 🌱 I'm currently learning Back-End Web Development 
+  #### 📫 How to reach me: 
   <a target="_blank" href="https://www.instagram.com/ilyasbelaoud"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
   <a target="_blank" href="https://twitter.com/ilyasbelaoud"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
   <a target="_blank" href="https://github.com/ilyasbelaoud"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h3>🚀💻 Skills & Tools:</h2>
+#### 🚀💻 Skills & Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
