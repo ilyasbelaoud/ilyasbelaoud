@@ -22,5 +22,4 @@
 [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#README)
 [![](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#README)
 -----
-![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=gotham&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&theme=gotham&hide_border=true)
