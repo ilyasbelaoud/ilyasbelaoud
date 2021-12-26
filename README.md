@@ -1,7 +1,7 @@
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=25&center=true&vCenter=true&lines=Hello+World;I+'m+Ilyas;Software+developer;Self-taught+UI/UX+Designer;Always+learning+new+things;Welcome+to+my+profile)
 ---
-<div>
+
   ### 👋 I'm a Self-taught Software Developer.
   ### 👀 I.m interested in Web Development, Artificial Intelligence...
   ### 🌱 I’m currently learning Back-End Web Development
@@ -9,7 +9,7 @@
   [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilyasbelaoud/) 
   [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ilyasbelaoud) 
   [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilyasbelaoud/)
-</div>
+
 
 <div>
   <a href="https://github.com/ilyasbelaoud" align="right">
