@@ -1,5 +1,5 @@
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=3572A5&size=25&center=true&vCenter=true&lines=Hello+World;I+'m+Ilyas;Software+developer;Self-taught+UI/UX+Designer;Always+learning+new+things;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=25&center=true&vCenter=true&lines=Hello+World;I+'m+Ilyas;Software+developer;Self-taught+UI/UX+Designer;Always+learning+new+things;Welcome+to+my+profile)
 ---
 ### 👋 I'm a Self-taught Software Developer.
 ### 👀 I.m interested in Web Development, Artificial Intelligence...
