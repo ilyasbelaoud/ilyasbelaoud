@@ -1,15 +1,15 @@
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=25&center=true&vCenter=true&lines=Hello+World;I+'m+Ilyas;Software+developer;Self-taught+UI/UX+Designer;Always+learning+new+things;Welcome+to+my+profile)
 ---
-<div style="font-size: 5pt">
-  👋 I'm a Self-taught Software Developer. <br>
-  👀 I.m interested in Web Development, Artificial Intelligence... <br>
-  🌱 I’m currently learning Back-End Web Development <br>
-  📫 How to reach me: <br> <br>
+
+  ##### 👋 I'm a Self-taught Software Developer. 
+  ##### 👀 I.m interested in Web Development, Artificial Intelligence... 
+  ##### 🌱 I’m currently learning Back-End Web Development 
+  ##### 📫 How to reach me: 
   <a href="https://www.instagram.com/ilyasbelaoud"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://twitter.com/ilyasbelaoud"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://github.com/ilyasbelaoud"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
-</div>
+
 
 <div>
   <a href="https://github.com/ilyasbelaoud" align="right">
