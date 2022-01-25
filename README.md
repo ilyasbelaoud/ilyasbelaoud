@@ -6,8 +6,8 @@
   #### 👀 I'm interested in Web Development, Artificial Intelligence... 
   #### 🌱 I'm currently learning Back-End Web Development 
   #### 📫 How to reach me: 
+   <a target="_blank" href="https://twitter.com/ilyasbelaoud"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
   <a target="_blank" href="https://www.instagram.com/ilyasbelaoud"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/ilyasbelaoud"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
   <a target="_blank" href="https://github.com/ilyasbelaoud"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
 
 
