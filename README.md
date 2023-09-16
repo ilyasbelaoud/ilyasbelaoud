@@ -1,10 +1,10 @@
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World;I+'m+Ilyas;Passionate+Software+developer;Lifelong+Learner;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&color=57F9D1&size=23&center=true&vCenter=true&lines=Hello+World;I+'m+Ilyas;Passionate+Software+Engineer;Lifelong+Learner;Welcome+to+my+profile)
 ---
 
-  #### 👋 I'm a Self-taught Software Developer. 
-  #### 👀 I'm interested in Web 3.0, AI... 
-  #### 🌱 I'm currently learning Back-End Web Development 
+  #### 👋 I'm a Computer Science Student.
+  #### 👀 I'm interested Artificial Intelligence.
+  #### 🌱 I'm currently learning Software Engineering.
   #### 📫 How to reach me: 
    <a target="_blank" href="https://twitter.com/ilyasbelaoud"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
    <a target="_blank" href="https://www.linkedin.com/in/ilyasbelaoud"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
