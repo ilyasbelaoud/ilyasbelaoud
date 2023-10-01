@@ -3,7 +3,7 @@
 ---
 
   - 👋 I'm a Computer Science Student.
-  - 👀 I'm interested Artificial Intelligence.
+  - 👀 I'm interested Machine learning & Artificial Intelligence.
   - 🌱 I'm currently learning Software Engineering.
   - 📫 How to reach me:
     
