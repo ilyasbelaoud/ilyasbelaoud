@@ -1,6 +1,6 @@
 ### 👋 About Me 
 
-- Greetings! I'm Ilyas, a proactive Computer Science student, software engineer, and tech enthusiast specializing in Machine Learning and Data Science. I have practical experience with advanced software development and am expanding my expertise in AI to solve real-world problems. I thrive on learning innovative technologies and collaborating on impactful projects to create efficient, scalable solutions.
+- Greetings! I'm Ilyas, a proactive Computer Science student, software engineer, specializing in Machine Learning and Data Science. I have practical experience with advanced software development and am expanding my expertise in AI to solve real-world problems. I thrive on learning innovative technologies and collaborating on impactful projects to create efficient, scalable solutions.
 
 ### 🔍 I'm currently focused on:
 
