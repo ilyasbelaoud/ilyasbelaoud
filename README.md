@@ -26,8 +26,8 @@ I design systems that turn data into value—reliably and at scale.
 ### Activity
 <p align="left">
 <a href="https://github.com/ilyasbelaoud">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&hide_rank=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=ilyasbelaoud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&hide_rank=true"/>
+<img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ilyasbelaoud&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117"/>
 </a>
 </p>
 
