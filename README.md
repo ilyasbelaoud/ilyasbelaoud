@@ -3,7 +3,7 @@
 ### > AI & Data Engineer.
 **Engineering scalable intelligence.**
 
-My focus is on **Applied AI**—translating theoretical research into high-throughput production environments, prioritizing **Computational Efficiency** and **Data Reliability**.
+I focus on **Applied AI** - translating theoretical research into high-throughput production environments, prioritizing **Computational Efficiency** and **Data Reliability**.
 
 ---
 
